@@ -73,7 +73,7 @@ _University of Asia Pacific_ (March 2017 – May 2025)
 
 ## 🧠  Activity
 
-![](https://leetcard.jacoblin.cool/lapor?ext=heatmap)
+![](https://leetcard.jacoblin.cool/nihad_?ext=heatmap)
 
 <a href="https://codeforces.com/profile/nihad">
   <img src="https://codeforces-readme-stats.vercel.app/api/card?username=nihad&theme=dark&force_username=true&border_color=404040&title_color=58a6ff&show_icons=true" alt="Codeforces Stats" />
