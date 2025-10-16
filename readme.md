@@ -69,11 +69,9 @@ _University of Asia Pacific_ (March 2017 – May 2025)
   - Training/Evaluation: Achieved satisfactory BLEU score accuracy  
 - **Impact**: Applications in HCI, assistive tools for disabled, surveillance systems
 
-<div>
- <!-- align="center" -->
- 
-
 ## 🧠  Activity
+<div align="center" >
+ 
 
 ![](https://leetcard.jacoblin.cool/nihad_?ext=heatmap)
 
@@ -85,7 +83,6 @@ _University of Asia Pacific_ (March 2017 – May 2025)
     <img src="https://cf.leed.at/?handle=nihad" alt="Codeforces Streak" />
   </a> -->
 
- 
 
 </div> 
 
