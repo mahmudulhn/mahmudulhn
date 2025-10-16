@@ -1,0 +1,13 @@
+name: Update Codeforces Stats
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: RedHeadphone/codeforces-readme-stats@main
+        with:
+          username: 'nihad'
