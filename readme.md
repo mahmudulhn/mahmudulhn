@@ -77,13 +77,21 @@ _University of Asia Pacific_ (March 2017 – May 2025)
 
 ![](https://leetcard.jacoblin.cool/nihad_?ext=heatmap)
 
-<a href="https://codeforces.com/profile/nihad">
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=nihad&theme=dark&force_username=true&border_color=404040&title_color=58a6ff&show_icons=true" alt="Codeforces Stats" />
-</a>
+<p align="center">
+  <a href="https://codeforces.com/profile/nihad">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://codeforces-readme-stats.vercel.app/api/card?username=nihad&theme=dark">
+      <source media="(prefers-color-scheme: light)" srcset="https://codeforces-readme-stats.vercel.app/api/card?username=nihad">
+      <img alt="Codeforces Stats" src="https://codeforces-readme-stats.vercel.app/api/card?username=nihad">
+    </picture>
+  </a>
+</p>
 
-<a href="https://codeforces.com/profile/nihad">
+<p align="center">
+  <a href="https://codeforces.com/profile/nihad">
     <img src="https://cf.leed.at/?handle=nihad" alt="Codeforces Streak" />
   </a>
+</p>
 
 </div> 
 
