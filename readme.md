@@ -69,7 +69,9 @@ _University of Asia Pacific_ (March 2017 – May 2025)
   - Training/Evaluation: Achieved satisfactory BLEU score accuracy  
 - **Impact**: Applications in HCI, assistive tools for disabled, surveillance systems
 
-<div align="center">
+<div
+ <!-- align="center" -->
+ >
 
 ## 🧠  Activity
 
