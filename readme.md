@@ -81,12 +81,12 @@ _University of Asia Pacific_ (March 2017 – May 2025)
   <img src="https://codeforces-readme-stats.vercel.app/api/card?username=nihad&theme=dark&force_username=true&border_color=404040&title_color=58a6ff&show_icons=true" alt="Codeforces Stats" />
 </a>
 
-<a href="https://codeforces.com/profile/nihad">
+<!-- <a href="https://codeforces.com/profile/nihad">
     <img src="https://cf.leed.at/?handle=nihad" alt="Codeforces Streak" />
-  </a>
+  </a> -->
 
-  [![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=nihad)](https://codeforces.com/profile/nihad)
+ 
 
 </div> 
 
-[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=nihad)](https://codeforces.com/profile/nihad)
+
